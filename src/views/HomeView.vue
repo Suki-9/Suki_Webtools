@@ -1,6 +1,6 @@
 <script lang="ts">
-import HeadBar from "../components/HeadBar.vue";
-import MenuBar from "../components/MenuBar.vue";
+import HeadBar from '../components/HeadBar.vue';
+import MenuBar from '../components/MenuBar.vue';
 
 export default {
   components: { 
