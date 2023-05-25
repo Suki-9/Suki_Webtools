@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=M+PLUS+1p:wght@300&display=swap');
+:root {
+    margin: 0;
+
+    background-color: rgb(10, 10, 10);
+
+    color: rgb(255, 255, 255);
+    font-family: 'M PLUS 1p', sans-serif;
+}
+
+body {
+    margin: 0;
+    width: 90%;
+}
